@@ -6,3 +6,4 @@
 # Weaknesses
 
 - Can be a bit complicated to use
+- History takes up file space
