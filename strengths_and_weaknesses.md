@@ -4,3 +4,5 @@
 - Great for collaboration
 
 # Weaknesses
+
+- Can be a bit complicated to use
